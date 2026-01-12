@@ -1,0 +1,101 @@
+shop_id,item_id,item,item_name,sold,price (Rp),city
+1590,3578,Apel,Apel merah ,1921,22549,Kab. Bogor
+1968,4327,Apel,Apel rome beauty,2077,36256,Kota Bandung
+1911,2153,Apel,Apel fuji,1971,43525,Kota Malang
+1579,1223,Apel,Apel manalagi,1961,38031,Jakarta Pusat
+1574,4675,Apel,Apel wanglin,3239,23299,Kab. Bogor
+3512,3279,Apel,Apel merah,4474,35882,Kota Bandung
+1904,2643,Apel,Apel rome beauty,2288,25221,Kota Malang
+1943,4171,Apel,Apel fuji,1505,10693,Jakarta Pusat
+3131,3728,Apel,Apel manalagi,1860,27556,Kab. Bogor
+4530,4649,Apel,Apel wanglin,1195,41518,Kota Bandung
+4530,3620,Pisang,Pisang raja,1483,37764,Kota Malang
+2339,1233,Pisang,Pisang ambon,2769,39496,Jakarta Pusat
+3083,1254,Pisang,Pisang madu,943,25128,Kab. Bogor
+1579,1044,Pisang,Pisang uli,1968,38044,Kota Bandung
+2513,4868,Pisang,Pisang mas,328,10968,Kota Malang
+2071,1563,Pisang,Pisang kepok,3312,15168,Kab. Bogor
+4916,1767,Pisang,Pisang tanduk,4181,29862,Kota Bandung
+3599,2971,Pisang,Pisang klutuk,4216,30392,Kota Malang
+1588,1293,Pisang,Pisang lampung,4905,12841,Jakarta Pusat
+1328,1152,Pisang,Pisang susu,824,34151,Kab. Bogor
+3772,1854,Mangga,Mangga apel,3779,15281,Kota Bandung
+4404,4010,Mangga,Mangga arumanis,2118,28548,Kota Malang
+4379,2165,Mangga,Mangga gedong gincu,1718,22111,Jakarta Pusat
+3837,3094,Mangga,Mangga alpukat,4507,34840,Kab. Bogor
+2572,3060,Mangga,Mangga malibu,942,32452,Kota Bandung
+1871,3811,Mangga,Mangga manalagi,3449,41049,Kota Malang
+1458,2153,Mangga,Mangga madu,2953,41786,Jakarta Pusat
+4836,1884,Mangga,Mangga Indramayu,158,24165,Kab. Bogor
+3577,2084,Mangga,Mangga golek,64,24010,Kota Bandung
+3859,3224,Mangga,Mangga garifta,3737,20877,Kota Malang
+1715,4242,Jeruk,Jeruk bali,2314,28363,Kab. Bogor
+4292,4517,Jeruk,Jeruk peras,2067,11752,Kota Bandung
+2324,4293,Jeruk,Jeruk baby,3897,44180,Kota Malang
+3774,3428,Jeruk,Jeruk purut,1043,31050,Jakarta Pusat
+2064,3397,Jeruk,Jeruk manis,3710,43109,Kab. Bogor
+3076,2527,Jeruk,Jeruk nipis,2418,22529,Kota Bandung
+1542,3717,Jeruk,Jeruk lemon,674,30995,Kota Malang
+4709,3110,Jeruk,Jeruk bali jumbo,2327,44755,Jakarta Pusat
+2627,2323,Jeruk,Jeruk import,1900,26532,Kab. Bogor
+1441,1074,Jeruk,Jeruk medan,2909,23976,Kota Bandung
+1855,1472,Strawberry,Sweet charlie,552,43790,Kota Malang
+3014,2540,Strawberry,Oso grande,3902,21734,Jakarta Pusat
+3037,2750,Strawberry,Tristar,1354,29916,Kab. Bogor
+3228,1816,Strawberry,Nyoho,3658,11244,Kota Bandung
+4295,2914,Strawberry,Howokaze,2739,11345,Kota Malang
+3026,2816,Strawberry,Rosa linda,4007,43634,Kab. Bogor
+3223,1368,Strawberry,Chandler,1754,43435,Kota Bandung
+2073,1527,Strawberry,Holibert,1289,22153,Kota Malang
+1893,1881,Strawberry,Mencir,1379,23854,Jakarta Pusat
+4604,4590,Strawberry,California,4856,41274,Kab. Bogor
+1910,2884,Tomat,Tomat baby,1000,39045,Kota Bandung
+1938,4309,Tomat,Tomat merah,1309,44547,Kota Malang
+4033,4023,Tomat,Tomat hijau,2618,30144,Jakarta Pusat
+4192,3295,Tomat,Tomat madu,4840,21285,Kab. Bogor
+2011,3618,Tomat,Tomat jumbo,4098,37926,Kota Bandung
+3348,3698,Tomat,Tomat seger,4451,35701,Kota Malang
+3798,4453,Tomat,Tomat ceri,2226,10302,Jakarta Pusat
+2312,3154,Tomat,Tomat lokal,3726,43220,Kab. Bogor
+2209,1644,Tomat,Tomat import,4017,31875,Kota Bandung
+1054,4126,Tomat,Tomat ceri,2759,37379,Kota Malang
+1196,1900,Kentang,Kentang putih,2854,23065,Kab. Bogor
+3720,2196,Kentang,Kentang kuning,4833,41168,Kota Bandung
+2243,1685,Kentang,Kentang merah,3463,15568,Kota Malang
+4145,2875,Kentang,Kentang mini,3543,25794,Jakarta Pusat
+1939,2022,Kentang,Kentang mentega,2294,31963,Kab. Bogor
+2880,3078,Kentang,Kentang putih,3117,21031,Kota Bandung
+3750,4804,Kentang,Kentang kuning,4510,32162,Kota Malang
+2182,4098,Kentang,Kentang merah,3197,13078,Jakarta Pusat
+2333,4699,Kentang,Kentang mini,4055,29391,Kab. Bogor
+3016,3627,Kentang,Kentang mentega,2065,40944,Kota Bandung
+4997,4390,Wortel,Wortel imperator,1241,13167,Kota Malang
+4552,1397,Wortel,Wortel chantenay,3132,40941,Jakarta Pusat
+1927,3898,Wortel,Wortel nantes,4237,23320,Kab. Bogor
+1628,4897,Wortel,Wortel danvers,70,22885,Kota Bandung
+2439,3029,Wortel,Wortel mini,3818,40020,Kota Malang
+2956,1125,Wortel,Wortel local,1668,17995,Kab. Bogor
+4672,2090,Wortel,Wortel imperator,3919,42489,Kota Bandung
+1250,2881,Wortel,Wortel chantenay,3705,28335,Kota Malang
+4749,3534,Wortel,Wortel nantes,933,39169,Jakarta Pusat
+4893,4757,Wortel,Wortel danvers,3846,44754,Kab. Bogor
+4660,2217,Paprika,Paprika merah,4229,37408,Kota Bandung
+3109,3135,Paprika,Paprika kuning,939,24786,Kota Malang
+3817,3770,Paprika,Paprika oranye,1202,39927,Jakarta Pusat
+2918,1594,Paprika,Paprika hijau,509,39503,Kab. Bogor
+3916,4863,Paprika,Paprika ungu,1865,16546,Kota Bandung
+1447,3205,Paprika,Paprika merah,1886,43184,Kota Malang
+4207,2837,Paprika,Paprika kuning,2865,29679,Jakarta Pusat
+4679,2525,Paprika,Paprika oranye,3950,19256,Kab. Bogor
+1243,2531,Paprika,Paprika hijau,1071,34529,Kota Bandung
+1439,2061,Paprika,Paprika ungu,3084,13754,Kota Malang
+3618,1783,Timun,Timun lokal,102,44381,Kab. Bogor
+3890,3664,Timun,Timun lalap,4586,27620,Kota Bandung
+2790,2857,Timun,Timun jepang,3962,17126,Kota Malang
+1967,2684,Timun,Timun suri,3701,14398,Jakarta Pusat
+2169,3212,Timun,Timun mini,3398,28593,Kab. Bogor
+2876,1467,Timun,Timun lokal,1918,10815,Kota Bandung
+4787,4070,Timun,Timun lalap,4689,26227,Kota Malang
+3949,1467,Timun,Timun jepang,3275,11624,Jakarta Pusat
+1621,4974,Timun,Timun suri,614,18556,Kab. Bogor
+2736,4267,Timun,Timun mini,3009,24209,Kota Bandung
