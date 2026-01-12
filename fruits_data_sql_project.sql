@@ -38,7 +38,7 @@ FROM fruits_data
 WHERE price > 25000 AND price < 30000
 ORDER BY price DESC
 LIMIT 5										-- top 5 after skipping first 3 
-offset 3									-- skips first 3 
+OFFSET 3									-- skips first 3 
 
 -- COUNT / AGGREGATE OPERATORS -- in SELECT clause -- must go in GROUP BY statement 
 SELECT COUNT(item)			-- returns count of how many items are there // sum/avg/min/max
